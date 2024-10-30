@@ -1,4 +1,4 @@
-# 🎉 **HR Analytics Project** 📊
+# 🎉 **HR Analytics Project** 📊                     
 > **An In-Depth Analysis of Employee Attrition Trends**
 
 This HR Analytics Project dives into employee attrition, exploring the key factors driving turnover. By analyzing employee data, this project aims to provide actionable insights for retaining top talent and identifying trends in workforce behavior.
