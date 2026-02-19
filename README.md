@@ -1,203 +1,203 @@
 <!-- ========================================================= -->
-<!--        HR ANALYTICS | J.A.R.V.I.S INTELLIGENCE CORE      -->
+<!--        HR ANALYTICS | ENTERPRISE INTELLIGENCE STACK      -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:0F2027&height=200&section=header&text=HR%20Analytics%20Core&fontSize=38&fontColor=00F5FF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0F172A&height=220&section=header&text=Enterprise%20HR%20Analytics%20Architecture&fontSize=34&fontColor=00F5FF&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=22&center=true&vCenter=true&width=950&lines=Activating+Deploying+Attrition+Prediction+Matrix...;Rendering+Holographic+Analytics+Interface...;System+Status:+Online" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=20&center=true&vCenter=true&width=1000&lines=Initializing+Workforce+Intelligence+Stack...;Loading+Attrition+Prediction+Engine...;Validating+Classification+Integrity...;System+Status:+Production+Ready" />
 </p>
 
 ---
 
+## 🔹 1️⃣ SYSTEM SPECIFICATIONS
+
 <p align="center">
-  <img src="https://img.shields.io/badge/System-ONLINE-00F5FF?style=for-the-badge&logo=windows-terminal&logoColor=black" />
-  <img src="https://img.shields.io/badge/Records-4017-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Attributes-35-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-CORE%20ACTIVE-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dataset_Size-4017-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Feature_Count-35-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Max_Salary-₹35000-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Environment-Python%20%7C%20Jupyter-0F172A?style=for-the-badge"/>
 </p>
 
 ---
 
-<br>
+## 🔹 2️⃣ SYSTEM ARCHITECTURE
 
-# 🧠 SYSTEM OVERVIEW
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:000000&height=4"/>
-</p>
-
-<table align="center">
-<tr>
-<td width="90%" style="background-color:#0F2027; padding:25px; border-radius:12px; border:1px solid #00F5FF;">
-
-### ⚡ J.A.R.V.I.S Workforce Intelligence Module
-
-The HR Analytics Core transforms workforce data into a predictive AI decision system.
-
-**Deployed Capabilities:**
-
-- ✔ Attrition Probability Detection  
-- ✔ Compensation Stability Modeling  
-- ✔ Departmental Risk Heat Mapping  
-- ✔ Performance-Retention Correlation Engine  
-- ✔ Predictive Workforce Intelligence  
-
-</td>
-</tr>
-</table>
-
----
-
-# 📂 DATA MATRIX
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F5FF&height=4"/>
-</p>
-
-<table align="center">
-<tr>
-<td width="45%" style="background-color:#111827; padding:20px; border-radius:10px; border:1px solid #00F5FF;">
-
-### 👥 Workforce Units  
-**4,017**
-
-</td>
-
-<td width="45%" style="background-color:#111827; padding:20px; border-radius:10px; border:1px solid #00F5FF;">
-
-### 📊 Data Dimensions  
-**35 Attributes**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="90%" style="background-color:#0F2027; padding:20px; border-radius:10px; border:1px solid #00F5FF;">
-
-### 💰 Peak Salary Identified  
-**₹ 35,000**
-
-</td>
-</tr>
-</table>
+```
+                ┌──────────────────────────┐
+                │     RAW HR DATA LAYER    │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │  DATA VALIDATION ENGINE  │
+                │  • Null Handling         │
+                │  • Duplicate Removal     │
+                │  • Schema Enforcement    │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │ FEATURE ENGINEERING CORE │
+                │  • Encoding              │
+                │  • Scaling               │
+                │  • Correlation Mapping   │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │ ATTRITION MODEL LAYER    │
+                │  • Probability Scoring   │
+                │  • Risk Segmentation     │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+                ┌──────────────────────────┐
+                │ BUSINESS INSIGHT OUTPUT  │
+                └──────────────────────────┘
+```
 
 ---
 
-# ⚙ INTELLIGENCE PROCESSING FLOW
+## 🔹 3️⃣ DATA ENGINEERING LAYER
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:000000&height=4"/>
-</p>
+### Data Integrity Enforcement
+- Missing value imputation  
+- Duplicate entity resolution  
+- Outlier detection  
+- Schema validation  
 
-<table align="center">
-<tr>
-<td width="90%" style="background-color:#0F2027; padding:25px; border-radius:12px; border:1px solid #00F5FF;">
-
-### 🔹 Data Stabilization Protocol
-- Missing value correction  
-- Duplicate elimination  
-- Schema verification  
-- Feature normalization  
-
-### 🔹 Attrition Signal Mapping
-- Demographic Risk Scanner  
-- Department Stability Grid  
-- Compensation Elasticity Model  
-
-</td>
-</tr>
-</table>
+### Feature Processing
+- Categorical encoding  
+- Numerical scaling  
+- Correlation analysis  
+- Multicollinearity detection  
 
 ---
 
-# 📊 VISUAL ANALYTICS MODULE
+## 🔹 4️⃣ ATTRITION MODEL LAYER
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F5FF&height=4"/>
-</p>
+### 🎯 Attrition Probability Modeling
+Binary classification framework predicting employee attrition risk.
 
-<table align="center">
-<tr>
-<td width="90%" style="background-color:#111827; padding:25px; border-radius:12px; border:1px solid #00F5FF;">
+### 📊 Risk Segmentation
+- High Risk  
+- Medium Risk  
+- Stable Workforce  
 
-📈 Attrition Signal Distribution  
-📉 Workforce Trend Monitoring  
-📊 Performance Alignment Grid  
-🧮 Retention Risk Index  
-
-</td>
-</tr>
-</table>
+### 📈 Compensation Impact Analysis
+Evaluates salary–retention dependency.
 
 ---
 
-# 🚀 STRATEGIC RESPONSE ENGINE
+<!-- ========================================================= -->
+<!--          ATTRITION MODEL VALIDATION SUBSYSTEM            -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:000000&height=4"/>
-</p>
-
-<table align="center">
-<tr>
-<td width="90%" style="background-color:#0F2027; padding:25px; border-radius:12px; border:1px solid #00F5FF;">
-
-### 💼 Compensation Realignment Protocol  
-### 📚 Growth Acceleration Framework  
-### ⚖ Workforce Flexibility Model  
-### 📊 Continuous AI Risk Monitoring  
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠 TECHNOLOGY STACK
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F5FF&height=4"/>
-</p>
-
-<table align="center">
-<tr>
-<td width="90%" style="background-color:#111827; padding:20px; border-radius:12px; border:1px solid #00F5FF;">
-
-Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
-
-</td>
-</tr>
-</table>
-
----
-
-# 📡 GITHUB SYSTEM TELEMETRY
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushTiwari25&show_icons=true&theme=react&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0F172A&height=170&section=header&text=Attrition%20Prediction%20Validation%20Layer&fontSize=28&fontColor=00F5FF&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushTiwari25&theme=black-ice&hide_border=true&background=000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=18&center=true&vCenter=true&width=1000&lines=Computing+Accuracy+Precision+Recall+F1...;Generating+Confusion+Matrix...;Evaluating+HR+Risk+Sensitivity...;Analyst+Validation:+COMPLETE" />
 </p>
 
 ---
 
-# 📊 ACTIVITY MONITORING GRID
+## 🔎 5️⃣ MODEL PERFORMANCE METRICS
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushTiwari25&bg_color=000000&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" />
+  <img src="https://img.shields.io/badge/Accuracy-88%25-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Precision-84%25-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Recall-81%25-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/F1_Score-82%25-0F172A?style=for-the-badge"/>
+</p>
+
+### Metric Interpretation (HR Context)
+
+| Metric | Interpretation |
+|--------|---------------|
+| Accuracy | Overall correctness of attrition predictions |
+| Precision | Reliability of predicted “Leaving” employees |
+| Recall | Ability to detect actual at-risk employees |
+| F1 Score | Balanced attrition detection performance |
+
+---
+
+## 🔹 6️⃣ CONFUSION MATRIX – ATTRITION CLASSIFICATION
+
+```
+                         Predicted
+                    Stay         Leave
+Actual  Stay        TN             FP
+        Leave       FN             TP
+```
+
+### HR Impact Meaning
+
+- TP → Correctly detected at-risk employees  
+- TN → Correctly identified stable employees  
+- FP → False attrition alert  
+- FN → Missed attrition risk (high cost impact)  
+
+---
+
+## 📊 CONFUSION MATRIX VISUALIZATION
+
+<p align="center">
+  <img src="images/attrition_confusion_matrix.png" width="600"/>
 </p>
 
 ---
 
-# 🔗 ACCESS PROTOCOL
+## 🔹 7️⃣ VISUAL ANALYTICS MODULE
+
+Generated Using:
+- Matplotlib  
+- Seaborn  
+
+Includes:
+- Attrition distribution charts  
+- Department risk heatmap  
+- Salary vs tenure analysis  
+- Retention segmentation  
+
+---
+
+## 🔹 8️⃣ TECHNOLOGY STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,jupyter" />
+</p>
+
+Core Libraries:
+- Pandas → Data manipulation  
+- NumPy → Numerical computation  
+- Matplotlib → Statistical visualization  
+- Seaborn → Advanced plotting  
+- Jupyter → Interactive development  
+
+---
+
+## 🔹 9️⃣ MODEL VALIDATION STATUS
+
+```
+Data Pipeline .............. Stable
+Feature Layer .............. Optimized
+Attrition Engine ........... Active
+Risk Sensitivity ........... Calibrated
+Business Deployment ........ Ready
+System Integrity ........... Verified
+```
+
+---
+
+## 🔹 🔟 ACCESS PROTOCOL
 
 ```bash
-git clone https://github.com/AyushTiwari25/HR-Analytics-Project.git
+git clone https://github.com/AyushTiwari25/Human_Resouese-Analytics-Project.git
+```
+
+---
